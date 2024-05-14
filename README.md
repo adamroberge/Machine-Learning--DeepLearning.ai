@@ -37,7 +37,7 @@ cd machine-learning-specialization
 
 # Install required Python packages
 pip install -r requirements.txt
-```bash
+```
 
 Usage
 Each folder in this repository corresponds to a course and week in the specialization. To run the programs, navigate to the appropriate directory and execute the Python scripts.
