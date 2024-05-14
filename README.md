@@ -50,6 +50,7 @@ python example_script.py
 Contributing
 Feel free to fork this repository if you have suggestions or improvements. Contributions to the project are always welcome!
 
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
