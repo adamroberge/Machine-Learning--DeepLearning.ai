@@ -30,7 +30,7 @@ To run the code files in this repository, you will need to install some software
 
 ```bash
 # Clone this repository
-git clone [https://github.com/Icemagic33/Machine-Learning--DeepLearning.ai.git]
+git clone https://github.com/Icemagic33/Machine-Learning--DeepLearning.ai.git
 
 # Navigate to the repository
 cd machine-learning-specialization
