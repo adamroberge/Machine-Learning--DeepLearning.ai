@@ -30,20 +30,6 @@ Feel free to explore the repository, learn from it, and contribute to the ongoin
 - **Week 2:** Building recommender systems using collaborative and content-based methods.
 - **Week 3:** Constructing a deep reinforcement learning model (Deep Q Network).
 
-## Installation
-
-To run the code files in this repository, you will need to install some software, primarily Python and its libraries. Here are the steps to get started:
-
-```bash
-# Clone this repository
-git clone https://github.com/Icemagic33/Machine-Learning--DeepLearning.ai.git
-
-# Navigate to the repository
-cd machine-learning-specialization
-
-# Install required Python packages
-pip install -r requirements.txt
-```
 
 ## Usage
 Each folder in this repository corresponds to a course and week in the specialization. To run the programs, navigate to the appropriate directory and execute the Python scripts.
