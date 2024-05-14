@@ -1,6 +1,6 @@
 # Machine Learning Specialization by DeepLearning.AI and Stanford University
 
-Welcome to my repository for the Machine Learning Specialization offered by DeepLearning.AI and Stanford University on Coursera. This repo contains all my course projects, assignments, and notes as I progress through the series.
+Welcome to my repository for the Machine Learning Specialization offered by DeepLearning.AI and Stanford University on Coursera. This repo contains all my course projects, assignments, and notes as I progress through the series. 
 
 ## About the Specialization
 
@@ -39,21 +39,14 @@ cd machine-learning-specialization
 pip install -r requirements.txt
 ```
 
-Usage
+## Usage
 Each folder in this repository corresponds to a course and week in the specialization. To run the programs, navigate to the appropriate directory and execute the Python scripts.
 
-bash
-Copy code
-# Example: Running the script for Week 1 of Course 1
-cd Course1/Week1
-python example_script.py
-Contributing
+
+## Contributing
 Feel free to fork this repository if you have suggestions or improvements. Contributions to the project are always welcome!
 
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Acknowledgments
+## Acknowledgments
 Thanks to DeepLearning.AI and Stanford University for creating this excellent specialization.
 Hats off to the course instructors and everyone involved in the course design and implementation.
