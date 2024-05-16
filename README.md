@@ -32,7 +32,7 @@ Feel free to explore the repository, learn from it, and contribute to the ongoin
 
 
 ## Usage
-Each folder in this repository corresponds to a course and week in the specialization. To run the programs, navigate to the appropriate directory and execute the Python scripts.
+Each folder in this repository corresponds to a course and week in the specialization. To run the programs, navigate to the appropriate directory and execute the Jupyter Notebook scripts.
 
 
 ## Contributing
@@ -41,4 +41,4 @@ Feel free to fork this repository if you have suggestions or improvements. Contr
 
 ## Acknowledgments
 Thanks to DeepLearning.AI and Stanford University for creating this excellent specialization.
-Hats off to the course instructors and everyone involved in the course design and implementation.
+Hats off to the course instructors including Andrew Ng and everyone involved in the course design and implementation.
